@@ -1,3 +1,10 @@
+/*
+=======================================================
+CHAT APPLICATION IN C: SERVER
+Author: RUCHIR SHARMA
+Email ID: ruchir.sharma@students.iiit.ac.in
+=======================================================
+*/
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
